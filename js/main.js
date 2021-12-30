@@ -38,7 +38,7 @@ function firstQuestion() {
         background: '#fff url("img/iput-bg.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
-    }).then(function() {
+    }).then(function() {Cute
         $('.content').show(200);
     })
 }
